@@ -1,0 +1,11 @@
+eslint: copyright-without-copyright-notice
+eslint: description-synopsis-starts-with-article
+eslint: embedded-javascript-library
+eslint: executable-not-elf-or-script
+eslint: initial-upload-closes-no-bugs
+eslint: no-manual-page
+eslint: package-contains-eslint-config-file
+eslint: package-contains-npm-ignore-file
+eslint: script-not-executable
+eslint: symlink-is-self-recursive
+eslint: zero-byte-file-in-doc-directory
